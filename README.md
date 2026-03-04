@@ -3,8 +3,7 @@
 This project implements a **3D interactive farm environment** using **Modern OpenGL (C++)**.  
 The goal of the project was to explore core computer graphics concepts such as lighting, textures, shadows, and user interaction.
 
-The scene represents a **rural environment** with buildings, vegetation, and farm elements that can be explored freely by the user. :contentReference[oaicite:0]{index=0}
-
+The scene represents a **rural environment** with buildings, vegetation, and farm elements that can be explored freely by the user. 
 ![Farm Scene](poza/farm.png)
 
 ## Features
